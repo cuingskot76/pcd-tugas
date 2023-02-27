@@ -55,7 +55,6 @@ namespace WinFormsApp1
             Debug.WriteLine("(" + (n - 1) + "," + (m - 1) + ") : R=" + r);
             Debug.WriteLine("(" + (n - 1) + "," + (m - 1) + ") : G=" + g);
             Debug.WriteLine("(" + (n - 1) + "," + (m - 1) + ") : B=" + b);
-
         }
     }
 }
